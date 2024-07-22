@@ -16,12 +16,12 @@
 
             <div class="icons">
                 <img src="../assets/images/icon-2.png" alt="">
-                <h3>+84 123 123 123</h3>
+                <h3>+91 7379260015</h3>
             </div>
 
             <div class="icons">
                 <img src="../assets/images/icon-3.png" alt="">
-                <h3>02 Duong Khue, Cau Giay, Ha Noi, Viet Nam</h3>
+                <h3>(B/9/H/9),Hingan,Jamader lane,Kolkata,West Bengal</h3>
             </div>
 
         </div>

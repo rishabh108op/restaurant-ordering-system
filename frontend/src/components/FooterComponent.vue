@@ -14,8 +14,8 @@
             <div class="box">
                 <h3>our menu</h3>
                 <router-link @click="scrollToTop()" to="/menu"><i class="fas fa-arrow-right"></i> taco</router-link>
-                <router-link @click="scrollToTop()" to="/menu"><i class="fas fa-arrow-right"></i> burrito</router-link>
-                <router-link @click="scrollToTop()" to="/menu"><i class="fas fa-arrow-right"></i> nachos</router-link>
+                <router-link @click="scrollToTop()" to="/menu"><i class="fas fa-arrow-right"></i> rolls</router-link>
+                <router-link @click="scrollToTop()" to="/menu"><i class="fas fa-arrow-right"></i> snacks</router-link>
                 <router-link @click="scrollToTop()" to="/menu"><i class="fas fa-arrow-right"></i> side food
                 </router-link>
                 <router-link @click="scrollToTop()" to="/menu"><i class="fas fa-arrow-right"></i> dessert</router-link>

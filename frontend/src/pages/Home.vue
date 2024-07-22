@@ -3,8 +3,8 @@
         <div class="home-main">
             <div class="content">
                 <span>welcome foodies</span>
-                <h3>Original taste from Mexico 😋</h3>
-                <p>We guarantee to use fresh food with the best quality. Customers will enjoy Mexican cuisine with
+                <h3>Original taste from India😋</h3>
+                <p>We guarantee to use fresh food with the best quality. Customers will enjoy Indian cuisine with
                     explosive, sophisticated flavors.</p>
                 <router-link @click="scrollToTop()" to="/menu" class="btn">order now</router-link>
             </div>
@@ -23,12 +23,12 @@
 
             <router-link @click="scrollToTop()" to="/menu" class="box">
                 <img src="../assets/images/burrito-img.png" alt="">
-                <h3>burrito</h3>
+                <h3>Rolls</h3>
             </router-link>
 
             <router-link @click="scrollToTop()" to="/menu" class="box">
                 <img src="../assets/images/nachos-img.png" alt="">
-                <h3>nachos</h3>
+                <h3>Snacks</h3>
             </router-link>
 
             <router-link @click="scrollToTop()" to="/menu" class="box">
@@ -87,7 +87,7 @@
             <div class="content">
                 <span>why choose us?</span>
                 <h3 class="title">what's make our food delicious!</h3>
-                <p>Food to customers is always guaranteed of the best quality. Our dishes are made by chef Quang (a 5
+                <p>Food to customers is always guaranteed of the best quality. Our dishes are made by chef Ankit Maurya(a 5
                     Michelin stars chef), promising to bring explosive, delicate, impressive flavors. Our delivery
                     service is very professional, customers can enjoy the same quality at the restaurant</p>
                 <router-link @click="scrollToTop()" to="/about" class="btn">read more</router-link>
